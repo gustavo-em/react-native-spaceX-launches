@@ -1,3 +1,10 @@
+## Introdução
+
+- esse é um projeto consumindo a api do spaceX, na qual lista os lançamentos dos foguetes
+#### Foi utilizado
+- Redux (toolkit e thunk)
+- React Navigation v6
+
 ## Resultado
 
 https://user-images.githubusercontent.com/59415818/222617213-e754cba2-b558-4a65-8eaf-6ca3642af05c.mov
